@@ -1,0 +1,3 @@
+include ':app'
+include ':webrtc'
+rootProject.name = "Arad webrtc call"
